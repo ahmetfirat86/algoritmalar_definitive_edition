@@ -2,11 +2,12 @@
 
 namespace Algoritmalar
 {
+    //bismilliahirrahmanirrahim
     internal class Program
     {
         static uint memA = 3;
         static uint memB = 32;
-        static uint memC = 33;
+        static uint memC = 33;   
         static uint memD = 64;
         static uint memE = 912421553;
         static void Main(string[] args)
@@ -157,7 +158,7 @@ namespace Algoritmalar
             Console.Write("memC değerinin ikilik sayı sistemindeki karşılığı: "); BitOfMem(memC);
             Console.Write("memD değerinin ikilik sayı sistemindeki karşılığı: "); BitOfMem(memD);
             Console.Write("memE değerinin ikilik sayı sistemindeki karşılığı: "); BitOfMem(memE);
-            Console.WriteLine();
+            Console.WriteLine(); 
             v1();
             v2();
             v3();
